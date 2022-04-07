@@ -1,1 +1,1 @@
-Write a script that compiles a C file but does not link. 
+A repository for the ALX C hello world
